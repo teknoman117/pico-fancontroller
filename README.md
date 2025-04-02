@@ -2,6 +2,14 @@
 
 A simple fan controller program for the Pi Pico.
 
+Enclosure is for Samsung T7 Touch SSDs (85 mm x 57 mm x 8 mm). The Samsung T7 Portable might fit as it's supposedly slightly smaller.
+
+### Pictures
+
+![Front](assets/PXL_20250402_060005800.jpg)
+![Back](assets/PXL_20250402_060223770.jpg)
+![Fan](assets/PXL_20250402_060438727.jpg)
+
 ### License
 
 MPL 2.0
