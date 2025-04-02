@@ -1,4 +1,4 @@
-# pico-fancontroller
+# ssd-chiller
 
 A simple fan controller program for the Pi Pico.
 
